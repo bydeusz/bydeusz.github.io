@@ -1,7 +1,6 @@
 # bydeusz.github.io
 
-The pages the App Store requires for Sense, a to-do app for macOS.
-
-- `index.html`
-- `support.html`
-- `privacy.html`
+- `index.html` is the front page.
+- `sense/` holds the pages the App Store requires for Sense: the product page,
+  support, and the privacy policy.
+- `style.css` is shared by all of them.
